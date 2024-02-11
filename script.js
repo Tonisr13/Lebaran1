@@ -9,7 +9,7 @@ Iya.addEventListener("click", function () {
   if (Iya.value == 1) {
     Text.classList.remove("text-animate");
     void Text.offsetWidth;
-    Text.innerHTML = "Halo, Saya Lutfi";
+    Text.innerHTML = "Halo, Saya Keluarga Besar Pepen Supendi";
     Text.classList.add("text-animate");
   } else if (Iya.value == 2) {
     Text.classList.remove("text-animate");
@@ -57,7 +57,7 @@ Iya.addEventListener("click", function () {
     );
     Text.classList.remove("text-animate");
     void Text.offsetWidth;
-    Text.innerHTML = "Selamat hari raya Idul Fitri 1444 Hijriah!!";
+    Text.innerHTML = "Selamat hari raya Idul Fitri 1445 Hijriah!!";
     Text.classList.add("text-animate");
   } else if (Iya.value == 9) {
     Image.setAttribute("src", "https://i.imgur.com/s7wdUXL.png");
